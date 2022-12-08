@@ -1,0 +1,16 @@
+Para ejecutar el codigo hay que abrir el cmd
+
+Despues se usa el comando "cd" y pegamos esta direccion C:\Users\Ricardo\Desktop\USACH\C;EDD
+Es la carpeta general por lo que despues hay que ir a la carpeta exacta donde esta el codigo 
+Para eso se usa "cd" y se entra carpeta a carpeta hasta llegar al codigo
+
+Despues usamos el comando "more nombre_archivo.c" para verificar si es nuestro codigo 
+
+Luego compilamos el codigo con el siguiente comando 
+"gcc nombre_archivo.c –o nombre_archivo_compilado" esto nos arrojara un nombre_archivo_compilado.exe
+
+Y ejecutamos el programa con nombre_archivo_compilado
+
+Para compilar un archivo con tda, se debe compilar de la siguiente forma,
+
+gcc main.c TDA.c -o nombre_compilado

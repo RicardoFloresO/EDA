@@ -1,0 +1,9 @@
+EDA Inostroza.Mario 3 C 15
+EDA Inostroza.Mario 3 S 75
+EDA Inostroza.Mario 3 T 10
+CALCULOII Gonzalez.Rob 2 T 15
+CALCULOII Gonzalez.Rob 2 C 20
+CALCULOII Gonzalez.Rob 2 S 65
+DBD Bonacic.Carolina 4 T 10
+DBD Bonacic.Carolina 4 C 20
+DBD Bonacic.Carolina 4 S 70
